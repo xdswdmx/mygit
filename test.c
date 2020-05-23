@@ -3,7 +3,7 @@
 dev branch
 int main()
 {
-	printf("hello,master\n";
+	printf("hello,master and feature1\n";
 }
 
 
